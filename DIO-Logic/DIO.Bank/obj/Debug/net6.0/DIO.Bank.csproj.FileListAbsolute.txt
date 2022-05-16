@@ -1,0 +1,15 @@
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\bin\Debug\net6.0\DIO.Bank.exe
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\bin\Debug\net6.0\DIO.Bank.deps.json
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\bin\Debug\net6.0\DIO.Bank.runtimeconfig.json
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\bin\Debug\net6.0\DIO.Bank.dll
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\bin\Debug\net6.0\DIO.Bank.pdb
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\DIO.Bank.dll
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\refint\DIO.Bank.dll
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\DIO.Bank.pdb
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\DIO.Bank.genruntimeconfig.cache
+C:\Users\erollo\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Documentos\workspace\curso\DIO.Bank\obj\Debug\net6.0\ref\DIO.Bank.dll

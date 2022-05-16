@@ -1,0 +1,15 @@
+/storage/Workspace/dio/Dio.Series/bin/Debug/net6.0/Dio.Series
+/storage/Workspace/dio/Dio.Series/bin/Debug/net6.0/Dio.Series.deps.json
+/storage/Workspace/dio/Dio.Series/bin/Debug/net6.0/Dio.Series.runtimeconfig.json
+/storage/Workspace/dio/Dio.Series/bin/Debug/net6.0/Dio.Series.dll
+/storage/Workspace/dio/Dio.Series/bin/Debug/net6.0/ref/Dio.Series.dll
+/storage/Workspace/dio/Dio.Series/bin/Debug/net6.0/Dio.Series.pdb
+/storage/Workspace/dio/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.AssemblyReference.cache
+/storage/Workspace/dio/Dio.Series/obj/Debug/net6.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/storage/Workspace/dio/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfoInputs.cache
+/storage/Workspace/dio/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfo.cs
+/storage/Workspace/dio/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.CoreCompileInputs.cache
+/storage/Workspace/dio/Dio.Series/obj/Debug/net6.0/Dio.Series.dll
+/storage/Workspace/dio/Dio.Series/obj/Debug/net6.0/ref/Dio.Series.dll
+/storage/Workspace/dio/Dio.Series/obj/Debug/net6.0/Dio.Series.pdb
+/storage/Workspace/dio/Dio.Series/obj/Debug/net6.0/Dio.Series.genruntimeconfig.cache
